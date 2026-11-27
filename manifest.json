@@ -1,0 +1,7 @@
+{
+  "name": "Neat",
+  "entry": "Neat.dll",
+  "version": "0.1.3",
+  "type": "native",
+  "platform": "client"
+}
